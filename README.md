@@ -1,2 +1,2 @@
-# theicetube.github.io
-TheIceTube client hosting
+# IceTube Hosting
+Static hosting for the IceTube game
